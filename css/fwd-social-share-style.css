@@ -1,0 +1,15 @@
+#fwd-share-button{
+ padding:0px;
+	margin:0px;
+}
+
+#fwd-share-button li{
+ list-style:none;
+	display:inline;
+	padding:1px;
+}
+.action_text{
+ border:1px dashed #999999;
+ padding:5px;
+ text-align:center;
+}
